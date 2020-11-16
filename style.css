@@ -76,7 +76,7 @@ body{
 }
 
 /* mobile view */
-@media (max-width:480px)  {
+@media (max-width:600px)  {
     .todo-container{
         margin-top: 44px;
         width: 85vw;
