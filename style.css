@@ -74,6 +74,22 @@ body{
     transform: scale(1.01,1.01);
 
 }
+.arrow{
+    position: absolute;
+    right: 265px;
+    top: 350px;
+    color: #e92626;
+    /* position: relative; */
+}
+.arrow:hover{
+    color: #e92626;
+    transform: scale(1.09,1.09);
+    
+}
+.arrow:active{
+    transform : scale(1.05,1.05)
+}
+
 
 /* mobile view */
 @media (max-width:600px)  {
