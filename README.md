@@ -1,3 +1,3 @@
 # assignment3page1
 
-https://akshaay9.github.io/assignment3page1/
+https://angry-minsky-eb993d.netlify.app/
